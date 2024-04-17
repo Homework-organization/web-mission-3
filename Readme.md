@@ -1,4 +1,4 @@
-![image](https://github.com/imkonyahin/web-mission-2.2/assets/167180041/018b0e46-8ea4-4e63-8d29-9cea403d7113)# Mission 2
+# Mission 2
 
 ## Part 0
 
